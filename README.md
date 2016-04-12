@@ -2,4 +2,4 @@
 
 Some examples of ionic Framework
 
-Hi Humans!
+Hi Humans! :D
